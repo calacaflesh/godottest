@@ -88,3 +88,5 @@ func roll_animation_finished():
 func attack_animation_finished():
 	state = MOVE 
 	
+func test():
+	pass
