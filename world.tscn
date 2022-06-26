@@ -516,6 +516,7 @@ tile_data = PoolIntArray( -589820, 0, 0, -589819, 0, 1, -589818, 0, 1, -589817, 
 
 [node name="Player" parent="YSort" instance=ExtResource( 2 )]
 position = Vector2( 88, 72 )
+ACCELERATION = 649
 ROLL_SPEED = 250
 
 [node name="Camera2D" type="Camera2D" parent="YSort/Player"]
